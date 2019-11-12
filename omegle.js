@@ -1,6 +1,5 @@
 module.exports = class OmegleChat {
     constructor(page) {
-        console.log(page);
         this.page = page;
         this.countMsgs = 0;
     }
