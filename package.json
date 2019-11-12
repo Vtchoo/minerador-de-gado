@@ -1,0 +1,10 @@
+{
+  "name": "minerador-de-gado",
+  "version": "0.0.1",
+  "description": "Minerador de gado ",
+  "main": "index.js",
+  "repository": "https://github.com/pedrohenriquebr/minerador-de-gado.git",
+  "author": "pedrohenriquebr <pedrohenriquebraga735@gmail.com>",
+  "license": "GNU",
+  "private": false
+}
