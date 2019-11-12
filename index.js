@@ -30,7 +30,7 @@ var repeat =
     ])
 
     //pra fisgar gado
-    await omegle.sendMsg(process.env.GADO_ENTRY);
+    await omegle.sendMsg(process.env.GADO_FACTOR);
 
     while (true) {
         let strangerMsg = await omegle.readMsg();
