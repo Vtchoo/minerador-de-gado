@@ -6,5 +6,9 @@
   "repository": "https://github.com/pedrohenriquebr/minerador-de-gado.git",
   "author": "pedrohenriquebr <pedrohenriquebraga735@gmail.com>",
   "license": "GNU",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^2.0.0"
+  }
 }
